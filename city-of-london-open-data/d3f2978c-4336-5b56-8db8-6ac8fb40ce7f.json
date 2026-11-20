@@ -20,7 +20,7 @@
   "dct_publisher_sm": [
     "City of London Open Data"
   ],
-  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.london.ca/datasets/01ba1344b72e41dbb12c4e7f49722303_8\"}",
+  "dct_references_s": "{\"http://schema.org/url\": \"https://opendata.london.ca/datasets/01ba1344b72e41dbb12c4e7f49722303_8\", \"urn:x-esri:serviceType:ArcGIS#FeatureLayer\": \"https://maps.london.ca/server/rest/services/OpenData/OpenData_Environment/MapServer/8\"}",
   "dct_rights_sm": [
     "Terms of Use"
   ],
