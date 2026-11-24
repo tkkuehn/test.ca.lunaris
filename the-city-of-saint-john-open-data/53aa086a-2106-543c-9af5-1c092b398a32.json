@@ -17,7 +17,7 @@
   "dct_publisher_sm": [
     "Yves Leger"
   ],
-  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue-saintjohn.opendata.arcgis.com/datasets/SaintJohn::orthophotos-2025\"}",
+  "dct_references_s": "{\"http://schema.org/url\": \"https://catalogue-saintjohn.opendata.arcgis.com/datasets/SaintJohn::orthophotos-2025\", \"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\": \"https://geonb.snb.ca/image/rest/services/Imagery/SaintJohn2025/ImageServer\"}",
   "dct_title_s": "Orthophotos (2025)",
   "gbl_mdModified_dt": "2025-11-11T15:59:26Z",
   "gbl_mdVersion_s": "Aardvark",
