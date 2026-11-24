@@ -29,7 +29,7 @@
   "dct_publisher_sm": [
     "Statistics Canada | Statistique Canada"
   ],
-  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9d3ee114-5ef1-4f3b-88c6-3d720172bcea\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.statcan.gc.ca/geo_wa/services/2023/lrnf000r23s_e/MapServer/WMSServer\"}",
+  "dct_references_s": "{\"http://schema.org/url\": \"https://open.canada.ca/data/en/dataset/9d3ee114-5ef1-4f3b-88c6-3d720172bcea\", \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://geo.statcan.gc.ca/geo_wa/services/2023/lrnf000r23s_e/MapServer/WMSServer\", \"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\": \"https://geo.statcan.gc.ca/geo_wa/rest/services/2023/lrnf000r23s_e/MapServer\"}",
   "dct_rights_sm": [
     "Open Government Licence - Canada https://open.canada.ca/en/open-government-licence-canada"
   ],
