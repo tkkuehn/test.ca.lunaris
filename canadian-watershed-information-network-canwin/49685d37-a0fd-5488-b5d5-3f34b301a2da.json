@@ -14,7 +14,7 @@
   "dct_publisher_sm": [
     "Canadian Watershed Information Network (CanWIN)"
   ],
-  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b\"}",
+  "dct_references_s": "{\"http://schema.org/url\": \"https://canwin-datahub.ad.umanitoba.ca/data/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b\", \"http://geojson.org/geojson-spec.html\": \"https://donnees.montreal.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/beff8ce0-7a61-4a82-95b5-96d89bafa671/download/casernes.geojson\"}",
   "dct_rights_sm": [
     "Creative Commons 4.0 Attribution (CC-BY) licence – Quebec https://www.donneesquebec.ca/fr/licence/"
   ],
